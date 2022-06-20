@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+body{
+	background-color: #12D8FA;
+}
+
+.header{
+	padding: 10px;
+	background-color: #1FA2FF;
+	text-align: center;
+	font-family: 'Crete Round', serif;
+
+}
+
+#title{
+	font-size: 45px;
+	text-shadow: 2px 2px 4px #000000;
+	color: whitesmoke;	
+	word-spacing: 5px;
+	letter-spacing: 2px;
+}
+
+#description{
+	padding-top: 8px;
+	font-size: 20px;
+	color: black;
+	word-spacing: 3px;
+}
+
+#survey-form{
+	margin: 50px 300px;
+}
+
+fieldset{
+	background-color: #1FA2FF;
+	padding: 40px;
+	font-family: 'Padauk', sans-serif;
+	font-size: 18px;
+}
+.form-detail{
+	margin-left: 200px;
+	padding-bottom: 20px;
+	display: block;
+}
+.form-input{
+	display: block;
+	/*border-radius: 1px solid #12D8FA;*/
+}
+
+button{
+	padding: 5px 20px ;
+	color: #12D8FA;
+	font-size: 15px;
+	background-color: black;
+	border-radius: 15px 10px;
+	border-color: black;
+}
